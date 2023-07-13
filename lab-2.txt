@@ -1,0 +1,6 @@
+simple calc if and switch
+find roots of quadtratic eq
+ferenhit to celcius and reverse
+sum of digit for given number
+take a mark of student and categorize in grade
+find leap year or not
