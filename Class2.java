@@ -45,7 +45,7 @@ class Class2
 		Employee e2 = new Employee(name,dept,salary);
 		Employee e3 = new Employee(e2);
 		Employee e4 = e3;
-		e2.emp_name = "RISHABH";
+		e2.emp_name = "JAGDISH";
 		e1.display();
 		e2.display();
 		e3.display();
